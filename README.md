@@ -1,3 +1,3 @@
 # ProjetoPerfumesPOO
-Este software simples trata-se de uma biblioteca que armazena informações sobre perfumes, onde estarão armazenados marcas, classificações na pirâmide olfativa, procedência, e preços, filtrando por categorias específicas e imprimindo na tela os perfumes desejados.
+Este software simples trata-se de uma sistema de compra em um site de perfumes que exibe as informações da venda.
 Grupo: Élita, Hellen, Ingryd, Sofia
